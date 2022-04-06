@@ -1,8 +1,6 @@
 # CZHLogisticController
 
-![公司的项目.png](https://upload-images.jianshu.io/upload_images/6709174-4b217cb5f07b1f6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-公司的项目，求支持，如果发现什么问题，可以留言反应，感激不尽
 
 ios 物流时间轴,自动匹配电话号码,可点击拨打
 
